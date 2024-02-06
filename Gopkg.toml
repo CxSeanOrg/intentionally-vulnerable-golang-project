@@ -26,8 +26,8 @@
 
 
 [prune]
-  go-tests = true
-  unused-packages = true
+  go-tests = false
+  unused-packages = false
 
 [[constraint]]
   name = "github.com/gophish/gophish"
