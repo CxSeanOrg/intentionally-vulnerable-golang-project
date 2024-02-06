@@ -3,7 +3,7 @@ module github.com/sonatype-nexus-community/intentionally-vulnerable-golang-proje
 go 1.13
 
 require (
-	github.com/opencontainers/runc 1.1.5 // testing runc vulnerability
+	github.com/opencontainers/runc v1.1.5 // testing runc vulnerability
 	cloud.google.com/go v0.40.0 // indirect
 	code.gitea.io/gitea v1.9.0-dev
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
